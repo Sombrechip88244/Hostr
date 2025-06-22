@@ -25,15 +25,7 @@ Hostr is a way for developers to get domains for cheap which are a subdomain of 
 
 ## Pricing
 
-### Standard Plan
-#### £1 A Month               
-##### 1GB of Storage
-
-### Premium Plan
-#### £2.50 A Month               
-##### 3GB of Storage
-
-### Ultimate Plan
-#### £5 A Month               
-##### 8GB of Storage
+### Standard Plan             Premium Plan             Ultimate Plan
+#### £1 A Month               £2.50 A Month            £5 A Month
+##### 1GB of Storage          3GB of Storage           8GB of Storage
 
