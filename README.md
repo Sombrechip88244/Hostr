@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<img src="/IMAGES/Screenshot_2025-06-22_at_10.39.03-removebg-preview.png" alt="Logo" width="80" height="80">
+<img src="/IMAGES/Screenshot_2025-06-22_at_10.39.03-removebg-preview.png" alt="Logo" width="400" height="100">
 </a>
 <h3 align="center">makeread.me</h3>
 <p align="center">
