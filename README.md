@@ -4,5 +4,25 @@
 </a>
 <h3 align="center">Hostr</h3>
 <p align="center">
-A simple way for developers to get free .hostr.one domains
+A simple way for developers to get cheap .hostr.one domains
 <br/>
+
+<div>
+
+## Table Of Contents
+
+- [Table Of Contents](#table-of-contents)
+- [About This Project](#about-this-project)
+
+
+
+<div>
+
+## About This Project
+Hostr is a way for developers to get domains for cheap which are a subdomain of .hostr.one - for example if you want a domain like pizza.com it would be pizza.hostr.one and this would be fully accessible from the internet and you can upload your code to it
+
+<div>
+
+## Pricing
+
+### 
