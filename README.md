@@ -7,7 +7,7 @@
 A simple way for developers to get cheap .hostr.one domains
 <br/>
 
-<div>
+<div align="left"
 
 ## Table Of Contents
 
