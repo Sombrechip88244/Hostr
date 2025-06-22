@@ -21,8 +21,19 @@ A simple way for developers to get cheap .hostr.one domains
 ## About This Project
 Hostr is a way for developers to get domains for cheap which are a subdomain of .hostr.one - for example if you want a domain like pizza.com it would be pizza.hostr.one and this would be fully accessible from the internet and you can upload your code to it
 
-<div>
+<div align="center"
 
 ## Pricing
 
-### 
+### Standard Plan
+#### £1 A Month               
+##### 1GB of Storage
+
+### Premium Plan
+#### £2.50 A Month               
+##### 3GB of Storage
+
+### Ultimate Plan
+#### £5 A Month               
+##### 8GB of Storage
+
